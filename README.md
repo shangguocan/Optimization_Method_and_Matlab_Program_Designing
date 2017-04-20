@@ -1,0 +1,2 @@
+# Optimization_Method_and_Matlab_Program_Designing
+This is a book about Optimization, in which Accurate line search, Non-Accurate line search,  steepest descent method,  newton method, conjugate gradient methods,  quasi Newton's method（BFGS, DFP, Broyden family）, Trust region method, Nonlinear least squares problem(Gauss-Newton method, Levenberg_Marquardt method), the optimality conditions, the penalty function method, the feasible direction method, quadratic programming and sequential quadratic programming method(Newton-Lagrange method,  SQP method) are referred.
